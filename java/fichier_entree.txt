@@ -1,0 +1,3 @@
+Bonjour tout le monde.
+Bienvenue dans cet exercice.
+Amusez-vous bien avec Java !
